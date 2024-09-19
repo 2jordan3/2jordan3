@@ -9,14 +9,11 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    env:
-      TOKEN: ${{ secrets.METRICS_TOKEN }}
     environment: 
       name: production
     permissions:
       contents: write
     steps:
-      - run: echo $TOKEN
       - uses: lowlighter/metrics@latest
         with:
-          token: $TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
