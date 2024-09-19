@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=5F404E" />&nbsp  
   <img src="https://img.shields.io/badge/java-FF160B.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
-
+<br>
+<p align="center"><img src="/metrics.plugin.leetcode.svg" alt="Metrics" width="400"></p>
 
 <br>
 
@@ -35,6 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=2jordan3&show_icons=true&theme=radical&hide=stars&count_private=true"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2jordan3&layout=compact"/></a>
 </div>
-
 
 
